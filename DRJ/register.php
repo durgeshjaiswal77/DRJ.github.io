@@ -60,44 +60,6 @@
 					<h2 class="title-head">Sign Up <span>Now</span></h2>
 					<p>Login Your Account <a href="login.html">Click here</a></p>
 				</div>	
-				<form class="contact-bx" method="post">
-					<div class="row placeani">
-						<div class="col-lg-12">
-							<div class="form-group">
-								<div class="input-group">
-									<label>Your Name</label>
-									<input name="dzName" type="text" required="" class="form-control">
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-12">
-							<div class="form-group">
-								<div class="input-group">
-									<label>Your Email Address</label>
-									<input name="dzEmail" type="email" required="" class="form-control">
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-12">
-							<div class="form-group">
-								<div class="input-group"> 
-									<label>Your Password</label>
-									<input name="dzPass" type="password" class="form-control" required="">
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-12 m-b30">
-							<button name="submit" type="submit" value="Submit" class="btn button-md">Sign Up</button>
-						</div>
-						<div class="col-lg-12">
-							<h6>Sign Up with Social media</h6>
-							<div class="d-flex">
-								<a class="btn flex-fill m-r5 facebook" href="https://www.facebook.com/facebook.durgeshjaiswal/"><i class="fa fa-facebook"></i>Facebook</a>
-								<a class="btn flex-fill m-l5 google-plus" href="#"><i class="fa fa-google-plus"></i>Google Plus</a>
-							</div>
-						</div>
-					</div>
-				</form>
 			</div>
 		</div>
 	</div>
