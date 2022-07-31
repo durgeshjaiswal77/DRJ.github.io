@@ -45,9 +45,13 @@
 	<!-- STYLESHEETS ============================================= -->
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 	<link class="skin" rel="stylesheet" type="text/css" href="assets/css/color/color-1.css">
+
+
+	
 	
 </head>
 <body id="bg">
+	
 <div class="page-wraper">
 	<div id="loading-icon-bx"></div>
 	<div class="account-form">
@@ -57,7 +61,8 @@
 		<div class="account-form-inner">
 			<div class="account-container">
 				<div class="heading-bx left">
-					<h2 class="title-head">Sign Up <span>Now</span></h2>
+					<h3 class="title-head">You have registered successfully<span>, No need register again.</span></h3><br><br>
+					<h2 class="title-head">Login<span>Now</span></h2>
 					<p>Login Your Account <a href="login.html">Click here</a></p>
 				</div>	
 			</div>
@@ -107,12 +112,6 @@ if(isset($_POST['submit']))
 
 }
 ?>
-
-<script>
-
-    alert("Registered Successfully....");
-
-</script>
 
 </body>
 
